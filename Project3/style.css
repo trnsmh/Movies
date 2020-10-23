@@ -1,0 +1,36 @@
+body{
+    margin-top:50px;
+    background-color:silver; 
+}
+.movie {
+    cursor:grab;
+}
+.movie:active{
+    cursor:grabbing;
+    color:red;
+
+}
+.movie:hover {
+    background-color:red;
+    font-size:25px;
+}
+
+.container {
+    text-align: center;
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.spinner-border{
+    margin-top:40px;
+    margin-left:100px;
+}
+.card{
+    margin-top:40px;
+    margin-left:50px;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.movieph{
+    text-align: center;
+}
